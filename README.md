@@ -1,5 +1,5 @@
 # Chat-App
-ChatApp is a native chat application built using UIKit framework, following mostly the MVVM pattern. The app leverages the powerful features of UIKit to create an intuitive and interactive messaging experience. It utilizes Core Data for data persistence, allowing users to create conversations, send and receive messages (including text and photos), and perform various actions such as marking messages as read, pinning conversations, deleting conversations, and more.
+ChatApp is a native chat application built using UIKit framework. The app leverages the powerful features of UIKit to create an intuitive and interactive messaging experience. It utilizes Core Data for data persistence, allowing users to create conversations, send and receive messages (including text and photos), and perform various actions such as marking messages as read, pinning conversations, deleting conversations, and more.
 
 Features
 - Conversations: Users can create conversations, view existing conversations, and interact with them.
